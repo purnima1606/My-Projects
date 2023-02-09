@@ -1,0 +1,11 @@
+Project Name : Information Extraction from Aadhar card, Pan card & Passport using Python.
+Libraries    : pytesseract, cv2, PIL, pyzbar, re.
+
+The objective of this project is to build an application that automatically extracts required information about the cardholder. In this project, the Aadhar card, Pan card & Passport of the users have been used to fetch information about the cardholder & then converted into human-readable formats. 
+To achieve this, two technologies were used-
+•	Use barcode recognition technology to decode the QR Code,
+•	Using OCR technology to recognize the characters printed on the card.
+It also facilitates the storage of data in the database. MySql database has been used for this purpose. There is an option if the user wants to update the information/data in the table.
+
+With this application, reduced manual work as well as manual errors, saved a lot of time and got more accurate data. 
+
